@@ -11,6 +11,10 @@
 | Back-End   | Back-End  | Back-End  | Front-End |
 | 정한슬     | 김민호    | 안윤호    | 나근아    |
 
+## 🛠 Architecture 🛠
+
+***추가 예정***
+
 ## 💻 기술 스택 💻
 
 - **Front-End:**
@@ -34,3 +38,8 @@
   - Postman
   - Slack
   - Notion
+ 
+## 🔗 Link 🔗
+- [백엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_BE)
+- [프론트엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_FE)
+- [노션](https://na-s-note-page.notion.site/StudyBadge-88869c57effe4ef2a33ea393c594bcf4?pvs=4)
