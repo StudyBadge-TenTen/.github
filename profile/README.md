@@ -45,6 +45,7 @@
 
 - **Tools:** 
   - Visual Studio Code
+  - IntelliJ
   - Postman
   - Swagger
 
@@ -52,6 +53,7 @@
   - Slack
   - Notion 
   - Jira
+  - Discord
 
 ## 🔗 Link 🔗
 - [백엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_BE)
