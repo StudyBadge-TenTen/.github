@@ -13,7 +13,7 @@
 
 ## 🛠 Architecture 🛠
 
-***추가 예정***
+![Web App Reference Architecture(1)](https://github.com/user-attachments/assets/fe5bb93d-a7fb-4605-9562-d07c75ba671e)
 
 ## 💻 기술 스택 💻
 
