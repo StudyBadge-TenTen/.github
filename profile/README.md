@@ -31,6 +31,7 @@
   - AWS (Amazon Web Services)
   - Quartz
   - Redis
+  - MariaDB
   - Spring Batch
 
 - **Version Control:** 
