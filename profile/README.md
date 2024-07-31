@@ -40,7 +40,7 @@
 
 - **CI/CD:**
   - Github Actions
-  - AWS CodyDeploy
+  - AWS CodeDeploy
   - AWS EC2
   - AWS S3
 
