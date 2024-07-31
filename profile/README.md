@@ -25,20 +25,33 @@
   - Styled-Components
 
 - **Back-End:**
-  - 추가 예정 
+  - Spring Security
+  - OAuth2 Client
   - JWT (JSON Web Token)
   - AWS (Amazon Web Services)
+  - Quartz
+  - Redis
+  - Spring Batch
 
 - **Version Control:** 
   - Git
   - GitHub
 
+- **CI/CD:**
+  - Github Actions
+  - AWS CodyDeploy
+  - AWS EC2
+  - AWS S3
+
 - **Tools:** 
   - Visual Studio Code
   - Postman
+  - Swagger
+
+- **Collaborative Tools:**
   - Slack
-  - Notion
- 
+  - Notion 
+
 ## 🔗 Link 🔗
 - [백엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_BE)
 - [프론트엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_FE)
