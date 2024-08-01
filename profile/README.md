@@ -23,7 +23,7 @@
 
 ## 🛠 Architecture 🛠
 
-![Web App Reference Architecture(1)](https://github.com/user-attachments/assets/fe5bb93d-a7fb-4605-9562-d07c75ba671e)
+![Web App Reference Architecture(2)](https://github.com/user-attachments/assets/319a6d1a-7115-47c2-adb1-3b2fa186ff68)
 
 ## 💻 기술 스택 💻
 
