@@ -28,11 +28,93 @@
 ## 💻 기술 스택 💻
 
 ### 🌟 Front-End 🌟
-  - 추가 예정  
-  - React
-  - Redux
-  - TypeScript
-  - Styled-Components
+<table>
+  <tr>
+    <th>분류</th>
+    <th>기술</th>
+    <th>활용</th>
+  </tr>
+  <tr>
+    <td>프로그래밍 언어</td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>프레임워크/라이브러리</td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>빌드 도구</td>
+    <td><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>스타일링</td>
+    <td><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>스타일링</td>
+    <td><img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>상태 관리</td>
+    <td><img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>데이터 관리</td>
+    <td><img src="https://img.shields.io/badge/React--Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>모킹 도구</td>
+    <td><img src="https://img.shields.io/badge/MSW-000000?style=for-the-badge&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HTTP 클라이언트</td>
+    <td><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>실시간 통신</td>
+    <td><img src="https://img.shields.io/badge/SSE--Server--Sent--Event-1E90FF?style=for-the-badge&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>환경 변수</td>
+    <td><img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logoColor=black"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>테스트 도구</td>
+    <td><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>코드 품질</td>
+    <td><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>코드 품질</td>
+    <td><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>배포</td>
+    <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>패키지 매니저</td>
+    <td><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ### 🚀 Back-End 🚀
 <table>
@@ -57,9 +139,13 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="6">라이브러리/모듈</td>
+    <td rowspan="7">라이브러리/모듈</td>
     <td><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/></td>
     <td>보안</td>
+  </tr>
+    <tr>
+    <td><img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></td>
+    <td>배치 처리</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/SSE-1E90FF?style=for-the-badge&logoColor=white"/></td>
@@ -108,11 +194,6 @@
     <td><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></td>
     <td></td>
   </tr>
-<!--   <tr>
-    <td rowspan="1">컨테이너화 도구</td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
-    <td></td>
-  </tr> -->
   <tr>
     <td rowspan="4">클라우드 서비스</td>
     <td><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/></td>
