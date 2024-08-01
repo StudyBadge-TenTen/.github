@@ -47,7 +47,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>빌드 도구</td>
+    <td>빌드</td>
     <td><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></td>
     <td></td>
   </tr>
@@ -71,11 +71,6 @@
     <td></td>
   </tr>
   <tr>
-    <td>모킹 도구</td>
-    <td><img src="https://img.shields.io/badge/MSW-000000?style=for-the-badge&logoColor=white"/></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>HTTP 클라이언트</td>
     <td><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/></td>
     <td></td>
@@ -91,9 +86,13 @@
     <td></td>
   </tr>
   <tr>
-    <td>테스트 도구</td>
+    <td rowspan="2">테스트 </td>
     <td><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/></td>
     <td></td>
+    <tr>
+    <td><img src="https://img.shields.io/badge/MSW-000000?style=for-the-badge&logoColor=white"/></td>
+    <td>모킹</td>
+  </tr>
   </tr>
   <tr>
     <td rowspan="2">코드 품질</td>
@@ -115,9 +114,13 @@
     <td></td>
   </tr>
   <tr>
-    <td>디자인 도구</td>
-    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
+    <td rowspan="2"> 도구 </td>
+      <td><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
     <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
+    <td>디자인 </td>
   </tr>
 </table>
 
