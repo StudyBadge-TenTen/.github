@@ -308,12 +308,13 @@
   </tr>
   <tr>
    <tr>
-    <td rowspan="5">결제</td>
+    <td rowspan="4">결제</td>
     <td>포인트 충전(토스)</td>
   </tr>
   <tr>
     <td>결제 취소</td>
   </tr>
+  <tr>
     <td rowspan="4">스터디 그룹 관리</td>
     <td>스터디 모임 생성 및 관리</td>
   </tr>
