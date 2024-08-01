@@ -27,14 +27,14 @@
 
 ## 💻 기술 스택 💻
 
-**Front-End:**
+### 🌟 Front-End 🌟
   - 추가 예정  
   - React
   - Redux
   - TypeScript
   - Styled-Components
 
-** 🚀 Back-End 🚀**
+### 🚀 Back-End 🚀
 <table>
   <tr>
     <th>분류</th>
