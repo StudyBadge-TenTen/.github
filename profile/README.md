@@ -50,12 +50,11 @@
     <td></td>
   </tr>
   <tr>
-    <td>스타일링</td>
+    <td rowspan="2">스타일링</td>
     <td><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></td>
     <td></td>
   </tr>
   <tr>
-    <td>스타일링</td>
     <td><img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></td>
     <td></td>
   </tr>
@@ -81,7 +80,7 @@
   </tr>
   <tr>
     <td>실시간 통신</td>
-    <td><img src="https://img.shields.io/badge/SSE--Server--Sent--Event-1E90FF?style=for-the-badge&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/SSE-1E90FF?style=for-the-badge&logoColor=white"/></td>
     <td></td>
   </tr>
   <tr>
@@ -95,12 +94,11 @@
     <td></td>
   </tr>
   <tr>
-    <td>코드 품질</td>
+    <td rowspan="2">코드 품질</td>
     <td><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/></td>
     <td></td>
   </tr>
   <tr>
-    <td>코드 품질</td>
     <td><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/></td>
     <td></td>
   </tr>
@@ -268,6 +266,13 @@
     <td>음성 회의</td>
   </tr>
 </table>
+
+## ERD
+
+
+## figma
+
+
 
 ## 🔗 Link 🔗
 - [백엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_BE)
