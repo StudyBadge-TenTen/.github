@@ -307,7 +307,7 @@
     <td>비밀번호 재설정</td>
   </tr>
    <tr>
-    <td rowspan="4">결제</td>
+    <td rowspan="2">결제</td>
     <td>포인트 충전(토스)</td>
   </tr>
   <tr>
