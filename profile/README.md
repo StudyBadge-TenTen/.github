@@ -275,7 +275,7 @@
 </table>
 
 ## 🖋️ ERD 🖋️
-
+![스터디뱃지 프로젝트 ERD](https://github.com/user-attachments/assets/ea2466c0-7480-4b42-bdf5-81e799b3f408)
 
 ## 🎨 figma 🎨
 [스터디 뱃지 피그마](https://www.figma.com/design/UGNhLngQ3tK0paJnMGjCwU/StudyBadge?node-id=0-1)
