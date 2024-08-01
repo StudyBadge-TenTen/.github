@@ -360,4 +360,4 @@
 ## 🔗 Link 🔗
 - [백엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_BE)
 - [프론트엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_FE)
-- [노션](https://na-s-note-page.notion.site/StudyBadge-88869c57effe4ef2a33ea393c594bcf4?pvs=4)
+- [노션](https://www.notion.so/na-s-note-page/StudyBadge-88869c57effe4ef2a33ea393c594bcf4?pvs=4)
