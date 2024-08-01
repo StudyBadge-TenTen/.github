@@ -21,6 +21,8 @@
 | Back-End   | Back-End  | Back-End  | Front-End |
 | 정한슬     | 김민호    | 안윤호    | 나근아    |
 
+## 🎬 시연 영상 🎬
+
 ## 🛠 Architecture 🛠
 
 ![Web App Reference Architecture(2)](https://github.com/user-attachments/assets/319a6d1a-7115-47c2-adb1-3b2fa186ff68)
@@ -110,6 +112,11 @@
   <tr>
     <td>패키지 매니저</td>
     <td><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>디자인 도구</td>
+    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
     <td></td>
   </tr>
 </table>
@@ -267,12 +274,85 @@
   </tr>
 </table>
 
-## ERD
+## 🖋️ ERD 🖋️
 
 
-## figma
+## 🎨 figma 🎨
+[스터디 뱃지 피그마](https://www.figma.com/design/UGNhLngQ3tK0paJnMGjCwU/StudyBadge?node-id=0-1)
 
 
+## 🌠 기능 🌠
+<table>
+  <tr>
+    <th>기능</th>
+    <th>설명</th>
+  </tr>
+  <tr>
+    <td rowspan="5">회원 관리</td>
+    <td>회원가입 및 로그인</td>
+  </tr>
+  <tr>
+    <td>소셜 로그인(카카오, 네이버)</td>
+  </tr>
+  <tr>
+    <td>결제 기능 지원</td>
+  </tr>
+  <tr>
+    <td>회원 정보 수정</td>
+  </tr>
+    <tr>
+    <td>비밀번호 재설정</td>
+  </tr>
+  <tr>
+    <td rowspan="4">스터디 그룹 관리</td>
+    <td>스터디 모임 생성 및 관리</td>
+  </tr>
+  <tr>
+    <td>참가자 승인, 거절 </td>
+  </tr>
+  <tr>
+    <td>참가자 역할 분담 및 퇴출 </td>
+  </tr>
+  <tr>
+    <td>이달의 출석왕 선정</td>
+  </tr>
+  <tr>
+    <td rowspan="4">출석 체크 및 통계</td>
+    <td>출석 체크 10분전 리마인드 알림 기능</td>
+  </tr>
+  <tr>
+    <td>일정의 출석 체크 기능</td>
+  </tr>
+  <tr>
+    <td>출석률에 따른 환급 포인트 제공</td>
+  </tr>
+  <tr>
+    <td>출석률 통계</td>
+  </tr>
+  <tr>
+    <td rowspan="4">일정 관리</td>
+    <td>스터디 리더가 단일 일정 및 반복 일정 등록, 수정, 삭제</td>
+  </tr>
+    <tr>
+    <td> 일정 조회 </td>
+  </tr>
+  <tr>
+    <td>일정 관련 스터디 멤버에게 알림 기능</td>
+  </tr>
+  <tr>
+    <td>오프라인 일정일 경우 장소 선택 가능</td>
+  </tr>
+  <tr>
+    <td rowspan="3">알림 시스템</td>
+    <td>실시간 알림 (SSE 사용)</td>
+  </tr>
+  <tr>
+    <td>알림 조회 기능</td>
+  </tr>
+  <tr>
+    <td>알림 읽음 처리</td>
+  </tr>
+</table>
 
 ## 🔗 Link 🔗
 - [백엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_BE)
