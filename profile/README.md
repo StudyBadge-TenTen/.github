@@ -154,7 +154,7 @@
     <td></td>
   </tr>
     <tr>
-    <td rowspan="2">도구</td>
+    <td rowspan="3">도구</td>
     <td><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></td>
     <td></td>
   </tr>
@@ -162,13 +162,31 @@
     <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
     <td></td>
   </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></td>
+    <td>프로젝트 이슈 관리</td>
+  </tr>
 </table>
 
-- **Collaborative Tools:**
-  - Slack
-  - Notion 
-  - Jira
-  - Discord
+### 🤝 Collaborative Tools 🤝
+<table>
+  <tr>
+    <th>도구</th>
+    <th>활용</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></td>
+    <td>진행상황 공유</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></td>
+    <td>문서 정리</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></td>
+    <td>음성 회의</td>
+  </tr>
+</table>
 
 ## 🔗 Link 🔗
 - [백엔드 레포지토리](https://github.com/StudyBadge-TenTen/StudyBadge_BE)
