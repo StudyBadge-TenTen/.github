@@ -291,7 +291,7 @@
     <th>설명</th>
   </tr>
   <tr>
-    <td rowspan="6">회원 관리</td>
+    <td rowspan="7">회원 관리</td>
     <td>회원가입 및 로그인, 로그아웃</td>
   </tr>
   <tr>
@@ -308,6 +308,9 @@
   </tr>
   <tr>
     <td>예금주 조회(계좌인증)</td>
+  </tr>
+  <tr>
+    <td>회원 탈퇴 기능</td>
   </tr>
    <tr>
     <td rowspan="2">결제</td>
