@@ -291,7 +291,7 @@
     <th>설명</th>
   </tr>
   <tr>
-    <td rowspan="5">회원 관리</td>
+    <td rowspan="6">회원 관리</td>
     <td>회원가입 및 로그인</td>
   </tr>
   <tr>
